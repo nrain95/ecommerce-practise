@@ -19,3 +19,29 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.categories h1{
+  color: white;
+}
+.categories img{
+  width: 100px;
+}
+.cat-1, .cat-2, .cat-3{
+  padding: 10px 30px;
+  border-radius: 14px;
+}
+.cat-1{
+  background-color: orange;
+}
+.cat-2{
+  background-color: orchid;
+}
+.cat-3{
+  background-color: blue;
+}
+.card-deck{
+  float: left;
+  width: 30%;
+}
+#shoes{
+  float: left;
+}
