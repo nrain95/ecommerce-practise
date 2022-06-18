@@ -38,10 +38,14 @@
 .cat-3{
   background-color: blue;
 }
-.card-deck{
-  float: left;
-  width: 30%;
+.card{
+  margin: 25px; 
+  border: none;
+  box-shadow: 10px 10px 25px lightgray;
 }
-#shoes{
-  float: left;
+#subscribe{
+  height: 300px; 
+}
+h6{
+  color: #FF589B;
 }
